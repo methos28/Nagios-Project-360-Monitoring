@@ -14,6 +14,7 @@ while getopts 'a:b:c:d:e:f:g:y:z:' opt ; do
   esac
 done
 
+#edit this paragraph as per your needs
 SLACK_HOSTNAME="perfios.slack.com"
 SLACK_BOTUSERNAME="alerts-production"
 MONITORING_URL="https://hawk.hinagro.com/nagios"
